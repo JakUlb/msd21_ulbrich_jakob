@@ -8,6 +8,8 @@ to use the generator open the .java file in any IDE and press run
 ## additional info
 * **Name:** Jakob Ulbrich
 * **Contact Information:** jakob.ulbrich@edu.fh-joanneum.at
+* **GitHub:** https://github.com/JakUlb/msd21_ulbrich_jakob.git
+* **FH Joanneum:** https://www.fh-joanneum.at/
 
 1. [exercise1](exercise1.md)
 2. [exercise2](exercise2.md)
