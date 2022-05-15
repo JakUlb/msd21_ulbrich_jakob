@@ -23,6 +23,13 @@ public class Calculator {
     }
 
     public int faculty(int number){
-        return 0;
+        int sum=1;
+       if(number<0){
+           return 0;
+       }
+       for(int i=number;i>0;i--){
+           sum*=i;
+       }
+       return sum;
     }
 }

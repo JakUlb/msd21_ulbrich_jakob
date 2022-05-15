@@ -10,5 +10,6 @@ public class Main {
         calc.minus(number1,number2);
         calc.divide(number1,number2);
         calc.multiply(number1,number2);
+        calc.faculty(5);
     }
 }
