@@ -24,3 +24,11 @@
 > Testing with positive numbers and checking if the right product is calculated
 >####negative numbers:
 > Testing with negative numbers and checking if the right product is calculated
+
+###Faculty
+>#### happy flow:
+> Testing with positive numbers and checking if the right faculty is calculated
+>#### negative numbers:
+> Testing with negative numbers and checking if 0 is returned
+> #### 
+> Testing with zero and checking if 1 is returned

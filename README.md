@@ -14,3 +14,4 @@ to use the generator open the .java file in any IDE and press run
 1. [exercise1](exercise1.md)
 2. [exercise2](exercise2.md)
 3. [exercise3](exercise3.md)
+4. [exercise4](exercise4.md)
