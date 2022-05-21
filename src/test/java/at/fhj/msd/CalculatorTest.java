@@ -1,5 +1,7 @@
 package at.fhj.msd;
 
+import org.apache.logging.log4j.LogManager;
+import org.apache.logging.log4j.Logger;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
@@ -7,6 +9,7 @@ import org.junit.jupiter.api.Test;
 public class CalculatorTest {
 
     private Calculator calc = new Calculator();
+    private static Logger logger = LogManager.getLogger();
 
     @BeforeEach
     public void setup(){
@@ -53,7 +56,9 @@ public class CalculatorTest {
         int value1=10;
         int value2=0;
         Double value= 1.0/0;
-        Assertions.assertEquals(value,calc.divide(value1,value2));
+        Assertions.assertThrows(ArithmeticException.class, () -> {
+            calc.divide(5, 0);
+        });
     }
 
     @Test
