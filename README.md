@@ -15,3 +15,8 @@ to use the generator open the .java file in any IDE and press run
 2. [exercise2](exercise2.md)
 3. [exercise3](exercise3.md)
 4. [exercise4](exercise4.md)
+5. [exercise5](exercise5.md)
+
+
+>Files:<br>
+> [example log4j property file](src/main/resources/log4j2.xml);
