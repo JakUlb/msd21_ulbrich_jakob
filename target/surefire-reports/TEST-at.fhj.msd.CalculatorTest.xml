@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="at.fhj.msd.CalculatorTest" time="0.097" tests="11" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="at.fhj.msd.CalculatorTest" time="1.512" tests="11" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.class.path" value="/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/test-classes:/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/classes:/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar:/home/jakob/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/jakob/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar:/home/jakob/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar:/home/jakob/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar:/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.2/junit-jupiter-params-5.8.2.jar:"/>
+    <property name="java.class.path" value="/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/test-classes:/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/classes:/home/jakob/.m2/repository/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar:/home/jakob/.m2/repository/org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2.jar:/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar:/home/jakob/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/jakob/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar:/home/jakob/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar:/home/jakob/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar:/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.2/junit-jupiter-params-5.8.2.jar:"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="java.vendor.url" value="https://java.oracle.com/"/>
@@ -11,9 +11,9 @@
     <property name="java.vm.specification.version" value="17"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="/usr/lib/jvm/java-17-oracle/lib"/>
-    <property name="sun.java.command" value="/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/surefire/surefirebooter12476640841325937988.jar /mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/surefire 2022-05-15T16-50-52_227-jvmRun1 surefire4882678571458810042tmp surefire_06418979572412836843tmp"/>
+    <property name="sun.java.command" value="/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/surefire/surefirebooter5917304656182903523.jar /mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/surefire 2022-05-31T18-27-58_329-jvmRun1 surefire215233836442182046tmp surefire_02454386008431154889tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/test-classes:/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/classes:/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar:/home/jakob/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/jakob/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar:/home/jakob/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar:/home/jakob/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar:/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.2/junit-jupiter-params-5.8.2.jar:"/>
+    <property name="surefire.test.class.path" value="/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/test-classes:/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/classes:/home/jakob/.m2/repository/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar:/home/jakob/.m2/repository/org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2.jar:/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar:/home/jakob/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/jakob/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar:/home/jakob/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar:/home/jakob/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar:/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.2/junit-jupiter-params-5.8.2.jar:"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="/home/jakob"/>
     <property name="user.language" value="en"/>
@@ -26,7 +26,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/surefire/surefirebooter12476640841325937988.jar"/>
+    <property name="surefire.real.class.path" value="/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/surefire/surefirebooter5917304656182903523.jar"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.1+12-LTS-39"/>
     <property name="user.name" value="jakob"/>
@@ -50,15 +50,15 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testFacultyZero" classname="at.fhj.msd.CalculatorTest" time="0.071"/>
-  <testcase name="testMinusNeg" classname="at.fhj.msd.CalculatorTest" time="0.002"/>
+  <testcase name="testFacultyZero" classname="at.fhj.msd.CalculatorTest" time="0.068"/>
+  <testcase name="testMinusNeg" classname="at.fhj.msd.CalculatorTest" time="0.004"/>
   <testcase name="testMinusPos" classname="at.fhj.msd.CalculatorTest" time="0.001"/>
-  <testcase name="testMultiplyNeg" classname="at.fhj.msd.CalculatorTest" time="0"/>
-  <testcase name="testMultiplyPos" classname="at.fhj.msd.CalculatorTest" time="0"/>
-  <testcase name="testAddNeg" classname="at.fhj.msd.CalculatorTest" time="0"/>
-  <testcase name="testAddPos" classname="at.fhj.msd.CalculatorTest" time="0.001"/>
+  <testcase name="testMultiplyNeg" classname="at.fhj.msd.CalculatorTest" time="0.001"/>
+  <testcase name="testMultiplyPos" classname="at.fhj.msd.CalculatorTest" time="0.001"/>
+  <testcase name="testAddNeg" classname="at.fhj.msd.CalculatorTest" time="0.001"/>
+  <testcase name="testAddPos" classname="at.fhj.msd.CalculatorTest" time="0.002"/>
   <testcase name="testDivide" classname="at.fhj.msd.CalculatorTest" time="0.001"/>
-  <testcase name="testDivideZero" classname="at.fhj.msd.CalculatorTest" time="0.001"/>
-  <testcase name="testFacultyNeg" classname="at.fhj.msd.CalculatorTest" time="0"/>
-  <testcase name="testFacultyPos" classname="at.fhj.msd.CalculatorTest" time="0"/>
+  <testcase name="testDivideZero" classname="at.fhj.msd.CalculatorTest" time="0.004"/>
+  <testcase name="testFacultyNeg" classname="at.fhj.msd.CalculatorTest" time="0.001"/>
+  <testcase name="testFacultyPos" classname="at.fhj.msd.CalculatorTest" time="0.001"/>
 </testsuite>

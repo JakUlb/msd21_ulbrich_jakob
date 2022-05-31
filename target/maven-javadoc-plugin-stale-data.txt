@@ -1,0 +1,61 @@
+/usr/lib/jvm/java-17-oracle/bin/javadoc
+@options
+@packages
+-classpath
+'/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/classes:/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/test-classes:/home/jakob/.m2/repository/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar:/home/jakob/.m2/repository/org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2.jar:/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar:/home/jakob/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar:/home/jakob/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar:/home/jakob/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar:/home/jakob/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar:/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.2/junit-jupiter-params-5.8.2.jar'
+-encoding
+'UTF-8'
+-protected
+-quiet
+-sourcepath
+'/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/src/test/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-Xdoclint:-html,-syntax,-accessibility,-missing
+-doctitle
+'msd21_ulbrich_jakob 1.0-SNAPSHOT Test API'
+-link
+'../apidocs'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'msd21_ulbrich_jakob 1.0-SNAPSHOT Test API'
+at.fhj.msd
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/classes = 1653476538499
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/test-classes = 1653130998939
+/home/jakob/.m2/repository/org/apache/logging/log4j/log4j-api/2.17.2/log4j-api-2.17.2.jar = 1653118707751
+/home/jakob/.m2/repository/org/apache/logging/log4j/log4j-core/2.17.2/log4j-core-2.17.2.jar = 1653118707791
+/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.8.2/junit-jupiter-api-5.8.2.jar = 1652626247958
+/home/jakob/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar = 1651769556691
+/home/jakob/.m2/repository/org/junit/platform/junit-platform-commons/1.8.2/junit-platform-commons-1.8.2.jar = 1652626248058
+/home/jakob/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar = 1652626248008
+/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.8.2/junit-jupiter-engine-5.8.2.jar = 1652626248118
+/home/jakob/.m2/repository/org/junit/platform/junit-platform-engine/1.8.2/junit-platform-engine-1.8.2.jar = 1652626248098
+/home/jakob/.m2/repository/org/junit/jupiter/junit-jupiter-params/5.8.2/junit-jupiter-params-5.8.2.jar = 1652626248168
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/src/test/java = 1651646003710
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs/allclasses-index.html = 1654014516274
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs/allpackages-index.html = 1654014516280
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs/copy.svg = 1653476842529
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs/element-list = 1654014516201
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs/help-doc.html = 1654014516328
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs/index-all.html = 1654014516315
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs/index.html = 1654014516320
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs/jquery-ui.overrides.css = 1654014516460
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs/member-search-index.js = 1654014516296
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs/module-search-index.js = 1654014516284
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs/overview-tree.html = 1654014516260
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs/package-search-index.js = 1654014516289
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs/script.js = 1654014516338
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs/search.js = 1654014516344
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs/stylesheet.css = 1654014516334
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs/tag-search-index.js = 1654014516300
+/mnt/c/Users/jakob/Desktop/FH Joanneum/GitHub/msd21_ulbrich_jakob/target/site/testapidocs/type-search-index.js = 1654014516293
